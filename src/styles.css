@@ -1187,3 +1187,16 @@ button:disabled {
     grid-template-columns: 1fr;
   }
 }
+
+/* FINAL TOP BLEND: hide transparent WebView top seam with a nearly invisible warm blend */
+.overlay-root {
+  background:
+    linear-gradient(
+      180deg,
+      rgba(36, 34, 28, 0.62) 0px,
+      rgba(36, 34, 28, 0.34) 5px,
+      rgba(36, 34, 28, 0.14) 11px,
+      rgba(36, 34, 28, 0.04) 18px,
+      rgba(36, 34, 28, 0) 26px
+    ) !important;
+}
