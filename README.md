@@ -2,6 +2,9 @@
 
 Windows 桌面透明覆盖层原型。它不替代 Explorer 或任务栏，只在原生桌面壁纸上方显示时间、日期、天气、专注状态、音乐条、命令面板、AI 面板和本地设置。
 （壁纸文件夹默认为D:\BaiduNetdiskDownload\desk_2和D:\BaiduNetdiskDownload\desk_1）
+<p align="center">
+  <img src="./Cover.png" width="900"/>
+</p>
 
 ## 当前启动链路
 
